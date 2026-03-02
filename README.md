@@ -24,3 +24,6 @@ public/ – class images
 
 Tech Stack
 React, Vite, JavaScript, CSS
+
+GIF Walkthrough: ![WEB102-Week1](https://github.com/user-attachments/assets/bfb14b71-941c-4c20-b4c0-669d638c6231)
+
